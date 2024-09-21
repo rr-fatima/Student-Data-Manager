@@ -1,5 +1,4 @@
 /*
-Name: Ruqia Fatima
 Program Name: main.cpp
 Date: June 5 2023
 Description: The program manages student data and performs various operations on
